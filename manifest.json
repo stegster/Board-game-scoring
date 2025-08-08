@@ -1,0 +1,20 @@
+{
+  "name": "Fantasy Board Scorer \u2014 Final",
+  "short_name": "F-Scorer",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#071123",
+  "theme_color": "#c89f44",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
